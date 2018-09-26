@@ -12,4 +12,8 @@ Outputs a .zip to upload to AWS Lambda dashboard.
 
 ## Tests
 
-TODO
+```
+npm run test
+```
+
+Current covers index.js, need to work out testing for knex.
